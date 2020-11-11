@@ -33,8 +33,9 @@ La flecha de abajo (DOWN ARROW) sirve para aumentar la velocidad de descenso del
 La barra espaciadora (SPACE) permite pausar el juego y abre la interzas de pausa.<br>
 La tecla (SHIFT) es una tecla especial que cambia de función dependiende de la pantalla en la que uno se encuantre. Se reomienda leer las indicaciones en cada uno de los botones de la pantalla antes de oprimir esta tecla.; especialmente porque también es la tecla de reinicio de juego.<p>  
 <p>Esta pantalla también cuenta con un boton de regreso que permite al usuario devolverse a la pantalla desde la cual accedió la pantalla de controles.</p>
+
 ### Menu de Pausa.
-Est pantalla, ademas de contar con un titulo y mostrar el puntaje actual del Jugador, tambien cuenta con tres botones que dan indicaciones de que teclas cumlpen sus mismos propositos. Hay un botón de reanudado, un botónn de reinicio, y un botón que te lleva a la pantalla de controles.
+Esta pantalla, ademas de contar con un titulo y mostrar el puntaje actual del Jugador, tambien cuenta con tres botones que dan indicaciones de que teclas cumlpen sus mismos propositos. Hay un botón de reanudado, un botónn de reinicio, y un botón que te lleva a la pantalla de controles.
 ### Game Over
 <p>Ademas de mostrar una notificación de que el juego ha terminado, esta pantalla también muestra el puntaje final del jugador y otros dos botones. Un boton para devolverse  a la pantallla de inicio, y otro boton para iniciar otra partida inmediatamente.</p>
 
